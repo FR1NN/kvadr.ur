@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvadr.ur", "kvadr.ur\kvadr.ur.csproj", "{9229F397-F0C2-41BB-B513-558EF0B5DBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9229F397-F0C2-41BB-B513-558EF0B5DBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9229F397-F0C2-41BB-B513-558EF0B5DBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9229F397-F0C2-41BB-B513-558EF0B5DBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9229F397-F0C2-41BB-B513-558EF0B5DBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902214B4-D9AE-4387-84F5-EE687F1B315F}
+	EndGlobalSection
+EndGlobal
